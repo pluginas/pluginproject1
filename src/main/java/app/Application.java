@@ -5,10 +5,14 @@ import io.github.humbleui.jwm.*;
 import java.util.function.Consumer;
 
 public class Application implements Consumer<Event> {
-    // окно приложения
+    /**
+     *
+     */
     private final Window window;
 
-    // конструктор приложения
+    /**
+     *  конструктор приложения
+     */
     public Application() {
         // создаём окно
         window = App.makeWindow();
