@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="40d349c5-aadd-4acc-9992-24ed78677afc" name="Changes" comment="window works">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="40d349c5-aadd-4acc-9992-24ed78677afc" name="Changes" comment="window title ready">
+      <change afterPath="$PROJECT_DIR$/src/main/resources/macos.icns" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/windows.ico" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/app/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/app/Application.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -70,6 +71,7 @@
       <option name="presentableId" value="Default" />
       <updated>1671448637762</updated>
       <workItem from="1671448639787" duration="2695000" />
+      <workItem from="1676532194740" duration="304000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1671449355297</created>
@@ -106,7 +108,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671451201315</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="window title ready">
+      <created>1676532361053</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1676532361053</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -129,6 +138,7 @@
     <MESSAGE value="classes" />
     <MESSAGE value="events consumer works" />
     <MESSAGE value="window works" />
-    <option name="LAST_COMMIT_MESSAGE" value="window works" />
+    <MESSAGE value="window title ready" />
+    <option name="LAST_COMMIT_MESSAGE" value="window title ready" />
   </component>
 </project>
