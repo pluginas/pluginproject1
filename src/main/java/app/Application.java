@@ -91,7 +91,7 @@ public class Application implements Consumer<Event> {
      * @param height высота окна
      * @param width  ширина окна
      */
-    public void paint(Canvas canvas, int height, int width) {
+    public void paint(Canvas canvas, int width, int height) {
         // запоминаем изменения (пока что там просто заливка цветом)
         canvas.save();
         // очищаем канвас
